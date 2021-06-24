@@ -9,3 +9,16 @@ Colab link: https://colab.research.google.com/drive/1m7QQo8hI21523R4UIYyUmRpx49t
 Colab link: https://colab.research.google.com/drive/1U8q6U14IFqW7kksB5BcVJ4l0Iw6sFLAm?usp=sharing
 
 <br/>
+<div align="center">
+    <img src="/img/10.png" </img> 
+  <img src="/img/11.png" </img>
+</div>
+
+<div align="center">
+    <img src="/img/1.png"> </img> 
+  <img src="/img/2.png">
+  <img src="/img/3.png">
+  <img src="/img/4.png">
+  <img src="/img/5.png">
+  <img src="/img/6.png">
+</div>
